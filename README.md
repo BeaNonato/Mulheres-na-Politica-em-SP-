@@ -25,7 +25,7 @@
 
 * Para isso, foi utilizada a linguagem *Python* através do ambiente *Jupyter Notebook*.
 
-* Os dados foram obtidos no site do [Tribunal Superior Eleitoral (TSE)] (https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1)
+* Os dados foram obtidos no site do ([Tribunal Superior Eleitoral (TSE)] (https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1))
 
 **Clique no link abaixo para visualizar a análise feita no jupyter notebook:**  
 > [Análise](https://github.com/BeaNonato/Mulheres-na-Politica-em-SP-/blob/main/Evolu%C3%A7%C3%A3o%20da%20Participa%C3%A7%C3%A3o%20de%20Mulheres%20na%20Pol%C3%ADtica%20em%20SP.md)
