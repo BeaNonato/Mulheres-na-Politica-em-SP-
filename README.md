@@ -11,8 +11,8 @@
 
 <p align="center">
   <a href ="#pencil2-o-trabalho"> Trabalho </a>  • 
-  <a href ="#analise"> Análise </a>  • 
-  <a href ="#conclusao"> Conclusão </a>
+  <a href ="#shipit-análise"> Análise </a>  • 
+  <a href ="#bulb-conclusão"> Conclusão </a>
 </p>
 
 <br>
