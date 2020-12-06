@@ -1,6 +1,12 @@
-# Mulheres-na-Politica-em-SP
-Análise da Evolução da Participação Política de Mulheres de 2014 a 2020
+<br>
 
+<p align="center">
+
+<h1 align="center">Mulheres na Politica em SP</h1>
+<h1 align="center"><img src="/1.jpg"></h1>
+<h3 align="center"> Análise da Evolução da Participação Política de Mulheres de 2014 a 2020</h3>
+
+</p>
 <hr>
 
 <p align="center">
@@ -15,11 +21,11 @@ Análise da Evolução da Participação Política de Mulheres de 2014 a 2020
 
 <br>
 
-:dart: O presente trabalho tem o objetivo de realizar uma análise quanto ao número de candidatas mulheres participantes das eleições de 2014 até 2020 em São Paulo.
+* O presente trabalho tem o objetivo de realizar uma análise quanto ao número de candidatas mulheres participantes das eleições de 2014 até 2020 em São Paulo.
 
-:computer: Para isso, foi utilizada a linguagem *Python* através do ambiente *Jupyter Notebook*.
+* Para isso, foi utilizada a linguagem *Python* através do ambiente *Jupyter Notebook*.
 
-:bookmark_tabs: Os dados foram obtidos no site do [Tribunal Superior Eleitoral (TSE)] (https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1)
+* Os dados foram obtidos no site do [Tribunal Superior Eleitoral (TSE)] (https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1)
 
 **Clique no link abaixo para visualizar a análise feita no jupyter notebook:**  
 > [Análise](https://github.com/BeaNonato/Mulheres-na-Politica-em-SP-/blob/main/Evolu%C3%A7%C3%A3o%20da%20Participa%C3%A7%C3%A3o%20de%20Mulheres%20na%20Pol%C3%ADtica%20em%20SP.md)
@@ -33,9 +39,20 @@ Análise da Evolução da Participação Política de Mulheres de 2014 a 2020
 Após a leitura dos dados, foram gerados quatro gráficos:
 
 - [x] Gráfico de Barra mostrando o Percentual de Participação das candidatas em SP em relação ao número de homens candidatos por ano
+
+<h1 align="center"><img src="/output_4_0.png"></h1>
+
 - [x] Gráfico de Barra mostrando o Número Absoluto de Participação das candidatas em SP por ano
+
+<h1 align="center"><img src="/output_5_0.png"></h1>
+
 - [x] Gráfico de Pizza mostrando a Comparação do número total de candidatas em SP em relação ao número de homens candidatos
+
+<h1 align="center"><img src="/output_6_0.png"></h1>
+
 - [x] Gráfico de Linha mostrando a Comparação da Evolução do número total de candidatas em SP em relação ao número de homens candidatos
+
+<h1 align="center"><img src="/output_7_0.png"></h1>
 
 É possível observar que, desde 2014, a participação feminina ficou ligeiramente acima de 30%, todavia o número ainda é desproporcional ao número de candidatos homens.
 
